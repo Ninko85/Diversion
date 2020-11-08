@@ -1,3 +1,5 @@
 aan.amazon.co.uk
 www.googleadservices.com
 choices.trustarc.com
+mads-eu.amazon.com
+pinpoint.us-east-1.amazonaws.com
