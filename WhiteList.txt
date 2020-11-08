@@ -3,3 +3,5 @@ www.googleadservices.com
 choices.trustarc.com
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
+cooper.logs.roku.com
+scribe.logs.roku.com
