@@ -3,6 +3,7 @@ choices.trustarc.com
 cloudservices.roku.com
 cooper.logs.roku.com
 display.ravm.tv
+dz1vmszs6rjp8.cloudfront.net
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
 scribe.logs.roku.com
