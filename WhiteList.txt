@@ -1,4 +1,5 @@
 aan.amazon.co.uk
+cdn.doubleverify.com
 choices.trustarc.com
 cloudservices.roku.com
 cooper.logs.roku.com
