@@ -6,6 +6,7 @@ combine.urbanairship.com
 cooper.logs.roku.com
 display.ravm.tv
 dz1vmszs6rjp8.cloudfront.net
+hit.api.useinsider.com
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
 scribe.logs.roku.com
