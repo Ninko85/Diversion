@@ -10,6 +10,7 @@ hit.api.useinsider.com
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
 scribe.logs.roku.com
+tag.bounceexchange.com
 www.googleadservices.com
 
 
