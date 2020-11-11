@@ -2,6 +2,7 @@ aan.amazon.co.uk
 cdn.doubleverify.com
 choices.trustarc.com
 cloudservices.roku.com
+combine.urbanairship.com
 cooper.logs.roku.com
 display.ravm.tv
 dz1vmszs6rjp8.cloudfront.net
