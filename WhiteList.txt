@@ -8,6 +8,7 @@ display.ravm.tv
 dz1vmszs6rjp8.cloudfront.net
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
+pixel.adsafeprotected.com
 scribe.logs.roku.com
 www.googleadservices.com
 
