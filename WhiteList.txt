@@ -1,4 +1,4 @@
-# Amazon App start
+# ########## Amazon start ##########
 
 aan.amazon.co.uk
 cdn.doubleverify.com
@@ -9,21 +9,22 @@ mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
 pixel.adsafeprotected.com
 
-# Amazon App end
+# ########## Amazon App end ##########
 
+# ########## Roku start ##########
 
 cloudservices.roku.com
-
 cooper.logs.roku.com
 display.ravm.tv
-
-
-
-
 scribe.logs.roku.com
+
+# ########## Roku end ##########
+
+# ########## Google start ##########
+
 www.googleadservices.com
 
-
+# ########## Google end ##########
 
 
 
