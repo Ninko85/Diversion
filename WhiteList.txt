@@ -4,6 +4,7 @@ aan.amazon.co.uk
 cdn.doubleverify.com
 choices.trustarc.com
 combine.urbanairship.com
+dt.adsafeprotected.com
 dz1vmszs6rjp8.cloudfront.net
 mads-eu.amazon.com
 pinpoint.us-east-1.amazonaws.com
