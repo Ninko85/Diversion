@@ -1,6 +1,8 @@
 # ########## Amazon start ##########
 
+
 aan.amazon.co.uk
+aax.amazon-adsystem.com
 cdn.doubleverify.com
 choices.trustarc.com
 combine.urbanairship.com
