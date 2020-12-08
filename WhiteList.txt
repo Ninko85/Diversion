@@ -1,5 +1,6 @@
 127.demdex.net
 212f0b4f.api.splkmobile.com
+mybbc-analytics.files.bbci.co.uk
 settings.crashlytics.com
 survey.112.2o7.net
 upc.d2.sc.omtrdc.net
