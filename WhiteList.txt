@@ -1,4 +1,7 @@
 ann.amazon.co.uk
 device-metrics-us.amazon.com
+dpm.demdex.net
 fls-eu.amazon.co.uk
 mads.amazon-adsystem.com
+survey.112.2o7.net
+upc.d2.sc.omtrdc.net
