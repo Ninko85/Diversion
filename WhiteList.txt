@@ -1,6 +1,7 @@
 ann.amazon.co.uk
 device-metrics-us.amazon.com
 dpm.demdex.net
+firebase-settings.crashlytics.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 mads.amazon-adsystem.com
