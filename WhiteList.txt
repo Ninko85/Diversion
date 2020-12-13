@@ -1,45 +1,25 @@
 127.demdex.net
 212f0b4f.api.splkmobile.com
-mybbc-analytics.files.bbci.co.uk
-settings.crashlytics.com
-survey.112.2o7.net
-upc.d2.sc.omtrdc.net
-
-# ########## Amazon start ##########
-
 aan.amazon.co.uk
 aax.amazon-adsystem.com
+adf0901f1861.cdn4.forter.com
 cdn.doubleverify.com
 choices.trustarc.com
-combine.urbanairship.com
-dt.adsafeprotected.com
-dz1vmszs6rjp8.cloudfront.net
-mads-eu.amazon.com
-pinpoint.us-east-1.amazonaws.com
-pixel.adsafeprotected.com
-static.adsafeprotected.com
-
-# ########## Amazon App end ##########
-
-# ########## Forter start ##########
-
-adf0901f1861.cdn4.forter.com
-
-# ########## Forter end ##########
-
-# ########## Google start ##########
-
-www.googleadservices.com
-
-# ########## Google end ##########
-
-# ########## Roku start ##########
-
 cloudservices.roku.com
+combine.urbanairship.com
 cooper.logs.roku.com
 display.ravm.tv
+dt.adsafeprotected.com
+dz1vmszs6rjp8.cloudfront.net
+hsbcbankglobal.demdex.net
+hsbcbankglobal.sc.omtrdc.net
+mads-eu.amazon.com
+mybbc-analytics.files.bbci.co.uk
+pinpoint.us-east-1.amazonaws.com
+pixel.adsafeprotected.com
 scribe.logs.roku.com
-
-# ########## Roku end ##########
-
-
+settings.crashlytics.com
+static.adsafeprotected.com
+survey.112.2o7.net
+upc.d2.sc.omtrdc.net
+www.googleadservices.com
