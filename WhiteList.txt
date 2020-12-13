@@ -7,5 +7,6 @@ fls-eu.amazon.co.uk
 fls-eu.amazon.com
 mads.amazon-adsystem.com
 settings.crashlytics.com
+ssl.google-analytics.com
 survey.112.2o7.net
 upc.d2.sc.omtrdc.net
