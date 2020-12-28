@@ -1,3 +1,4 @@
+aan.amazon.co.uk
 ann.amazon.co.uk
 app-measurement.com
 device-metrics-us.amazon.com
@@ -10,3 +11,4 @@ settings.crashlytics.com
 ssl.google-analytics.com
 survey.112.2o7.net
 upc.d2.sc.omtrdc.net
+virginmedia.112.2o7.net
