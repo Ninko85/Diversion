@@ -1,6 +1,7 @@
 aan.amazon.co.uk
 ann.amazon.co.uk
 app-measurement.com
+choices.trustarc.com
 device-metrics-us.amazon.com
 dpm.demdex.net
 firebase-settings.crashlytics.com
