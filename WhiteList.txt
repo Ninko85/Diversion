@@ -8,6 +8,7 @@ dpm.demdex.net
 firebase-settings.crashlytics.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
+fls-na.amazon.com
 mads.amazon-adsystem.com
 settings.crashlytics.com
 ssl.google-analytics.com
