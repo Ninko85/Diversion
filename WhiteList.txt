@@ -1,4 +1,5 @@
 aan.amazon.co.uk
+aax.amazon-adsystem.com
 ad.doubleclick.net
 advertising.amazon.co.uk
 amazoncustomerservice.d2.sc.omtrdc.net
@@ -7,6 +8,7 @@ apiservices.krxd.net
 app-measurement.com
 choices.trustarc.com
 clickserve.dartsearch.net
+device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dpm.demdex.net
 firebase-settings.crashlytics.com
