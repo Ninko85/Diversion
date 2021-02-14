@@ -1,4 +1,3 @@
 bs.serving-sys.com
 s.amazon-adsystem.com
 px.moatads.com
-www.googleadservices.com
