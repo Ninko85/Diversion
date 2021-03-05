@@ -2,3 +2,4 @@ cloudservices.roku.com
 cooper.logs.roku.com
 display.ravm.tv
 scribe.logs.roku.com
+tpc.googlesyndication.com
