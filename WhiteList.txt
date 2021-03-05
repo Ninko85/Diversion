@@ -1,3 +1,1 @@
-cooper.logs.roku.com
-mobile-http-intake.logs.datadoghq.com
 scribe.logs.roku.com
