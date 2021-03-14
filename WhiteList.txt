@@ -1,7 +1,1 @@
-cloudservices.roku.com
-cooper.logs.roku.com
-display.ravm.tv
-ravm.tv
-scribe.logs.roku.com
-securepubads.g.doubleclick.net
-tpc.googlesyndication.com
+sns.synology.com
