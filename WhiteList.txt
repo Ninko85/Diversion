@@ -1,3 +1,4 @@
 ispreview.co.uk
 sns.synology.com
+tpc.googlesyndication.com
 www.googleadservices.com
