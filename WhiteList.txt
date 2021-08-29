@@ -1,6 +1,7 @@
 dpm.demdex.net
 ispreview.co.uk
 securepubads.g.doubleclick.net
+smetrics.sky.com
 sns.synology.com
 tpc.googlesyndication.com
 www.googleadservices.com
