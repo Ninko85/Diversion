@@ -1,3 +1,4 @@
+cooper.logs.roku.com
 dpm.demdex.net
 ispreview.co.uk
 securepubads.g.doubleclick.net
