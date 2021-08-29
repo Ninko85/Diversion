@@ -2,7 +2,11 @@ cooper.logs.roku.com
 dpm.demdex.net
 ispreview.co.uk
 securepubads.g.doubleclick.net
+servedby.flashtalking.com
 smetrics.sky.com
 sns.synology.com
+static.doubleclick.net
+t.myvisualiq.net
 tpc.googlesyndication.com
+www.google-analytics.com
 www.googleadservices.com
