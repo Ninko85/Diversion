@@ -1,3 +1,6 @@
+audible.demdex.net
+audible.sc.omtrdc.net
+audible.tt.omtrdc.net
 cooper.logs.roku.com
 device-metrics-us.amazon.com
 display.ravm.tv
