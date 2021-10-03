@@ -1,6 +1,7 @@
 cooper.logs.roku.com
 dpm.demdex.net
 ispreview.co.uk
+scribe.logs.roku.com
 securepubads.g.doubleclick.net
 servedby.flashtalking.com
 smetrics.sky.com
