@@ -1,3 +1,1 @@
-adservice.google.com
-ssl.google-analytics.com
-www.googleadservices.com
+app-measurement.com
