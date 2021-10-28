@@ -4,3 +4,4 @@ dpm.demdex.net
 fls-eu.amazon.co.uk
 mads.amazon-adsystem.com
 scribe.logs.roku.com
+smetrics.sky.com
