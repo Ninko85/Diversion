@@ -2,6 +2,7 @@ aan.amazon.co.uk
 device-metrics-us.amazon.com
 dpm.demdex.net
 fls-eu.amazon.co.uk
+ispreview.co.uk
 mads.amazon-adsystem.com
 ravm.tv
 scribe.logs.roku.com
