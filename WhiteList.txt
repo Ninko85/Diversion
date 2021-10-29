@@ -3,5 +3,9 @@ device-metrics-us.amazon.com
 dpm.demdex.net
 fls-eu.amazon.co.uk
 mads.amazon-adsystem.com
+ravm.tv
 scribe.logs.roku.com
+securepubads.g.doubleclick.net
 smetrics.sky.com
+static.doubleclick.net
+tpc.googlesyndication.com
