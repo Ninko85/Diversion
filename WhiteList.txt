@@ -1,7 +1,3 @@
-display.ravm.tv
 dpm.demdex.net
 ispreview.co.uk
-ravm.tv
 securepubads.g.doubleclick.net
-static.doubleclick.net
-tpc.googlesyndication.com
